@@ -46,7 +46,7 @@ if z == 1:
     print("Correct!")
     score += 1
 else:
-    print("Wrong! Correct answer is Khub excited")
+    print("Wrong! Correct answer is Carbon Dioxide")
 
 print("\n Your Final Score:", score, "/ 3")
 
